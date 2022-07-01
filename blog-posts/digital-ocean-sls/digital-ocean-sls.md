@@ -1,9 +1,9 @@
 ---
 published: false
-title: 'My first sync article'
+title: 'Serverless on DigitalOcean - '
 cover_image:
-description: 'Description of the article'
-tags: tag1, tag2, tag3
+description: 'How to make an event-driven architecture with Digital Ocean Functions'
+tags: digital ocean, serverless, function, event driven
 series:
 canonical_url:
 ---
